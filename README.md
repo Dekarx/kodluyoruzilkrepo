@@ -1,2 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz Front-End Kapsamında Acacagım ilk repo
+#Kodluyoruz Ilk Repo
+
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)
